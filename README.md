@@ -111,6 +111,7 @@ Ayush Sharma is a CSE student majoring in Data Science at LPU with a CGPA of 7.5
 | 🐙 GitHub | [Ayush98sharma98](https://github.com/Ayush98sharma98) |
 | 📍 Location | Uttar Pradesh, India |
 
+
 ---
 
 ## 🚀 Deployment
